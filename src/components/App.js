@@ -16,4 +16,4 @@ const App = () => {
   )
 }
 
-
+export defalut App;
